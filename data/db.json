@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "Welcome to my New Blog",
+            "body": "This blog is going to be a place where Shmoe and I share out thoughts. As you will see, Shmoe and I rarely see eye to eye",
+            "author": "phil",
+            "id": 1
+        },
+        {
+            "title": "Hello, my name is Shmoe",
+            "body": "I'm looking forward to blogging here with Phil, But right off the bat I'm going tp have to disagree with him. We often see eye to eye",
+            "author": "shmoe",
+            "id": 2
+        },
+        {
+            "title": "My Response to Shmoe",
+            "body": "Dear friend. I think you've proven my point, if only in a quasi-paradoxical way. But let's not dwell on our disagreements. I think we both have much to say that has little to do with our opinions of each other's opinions",
+            "author": "phil",
+            "id": 3
+        }
+    ]
+}
